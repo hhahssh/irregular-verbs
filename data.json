@@ -1,6 +1,18 @@
 [
-  
+   {
+    "word": "123",
+    "infinitive": {
+      "form": "123",
+      "pronunciation": "/əˈbaid/",
+      "example": "I will abide by the school rules."
+    } 
   {
+    "word": "abide",
+    "infinitive": {
+      "form": "abide",
+      "pronunciation": "/əˈbaid/",
+      "example": "I will abide by the school rules."
+      {
     "word": "abide",
     "infinitive": {
       "form": "abide",
